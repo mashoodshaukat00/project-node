@@ -4,6 +4,7 @@ Features/Stories/Tasks
 Feature: define REST resource/create domain models
 
 Story: Create the product domain model
+
 Feature: Setup Aspnet core backend
 
 Story: As a frontend system I want a backend server
