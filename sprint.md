@@ -1,4 +1,4 @@
-# Sprint: SPRINTNAMEHERE (29.06.2021 - 09.07.2021)
+# Sprint: Super-Sprint (29.06.2021 - 09.07.2021)
 
 
 ## Features/Stories/Tasks
@@ -40,3 +40,5 @@ Creata a service method for getting a specific product from the database
   - Story: As a Developer I want to host my front-end within the dotnet core api  
 Configure the aspnet core api to host js-frontend(vue)   
 Configure the front-end to send request to aspnet api(instead of express)  
+* story: as a user i want to be able to "ADD" the products
+* story: as a user i want to be able to "REMOVE" the products
